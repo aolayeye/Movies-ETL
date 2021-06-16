@@ -39,6 +39,7 @@ After the entire ETL process, we successfully reduced 191 messy columns down to 
 ![movies_df](https://user-images.githubusercontent.com/67847583/122300149-8aa65300-cec4-11eb-98f9-413fbb9da353.png)
 ##### Transformed Data in SQL Database
 ![movies_query](https://user-images.githubusercontent.com/67847583/122300175-91cd6100-cec4-11eb-8ed1-b6cfbb941bde.png)
+##### Ratings Data in SQL Database
 ![ratings_query](https://user-images.githubusercontent.com/67847583/122300181-942fbb00-cec4-11eb-9b64-e1af1f9f3d7d.png)
 
 
