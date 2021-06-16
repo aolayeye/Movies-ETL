@@ -31,4 +31,14 @@ Finally, after the data is transformed into a consistent structure, it's loaded 
 ## Results
 After the entire ETL process, we successfully reduced 191 messy columns down to 21 useful, data-filled columns. Similarly we reduced 7311 rows to 6052.
 
+![wiki_movies_df](https://user-images.githubusercontent.com/67847583/122300112-7d896400-cec4-11eb-9659-34df646fab8b.png)
+![movies_with_ratings_df](https://user-images.githubusercontent.com/67847583/122300124-82e6ae80-cec4-11eb-9304-52c384edc05c.png)
+![movies_df](https://user-images.githubusercontent.com/67847583/122300149-8aa65300-cec4-11eb-98f9-413fbb9da353.png)
+![movies_query](https://user-images.githubusercontent.com/67847583/122300175-91cd6100-cec4-11eb-8ed1-b6cfbb941bde.png)
+![ratings_query](https://user-images.githubusercontent.com/67847583/122300181-942fbb00-cec4-11eb-9b64-e1af1f9f3d7d.png)
+
+
+
+
+
 
