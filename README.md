@@ -29,6 +29,6 @@ Finally, after the data is transformed into a consistent structure, it's loaded 
  18. Connect Pandas and SQL
 
 ## Results
-After the entire ETL process, we successfully reduced 191 messy columns down to 21 useful, data-filled columns. Similarly we reduced 7311 rows to 6052
+After the entire ETL process, we successfully reduced 191 messy columns down to 21 useful, data-filled columns. Similarly we reduced 7311 rows to 6052.
 
 
