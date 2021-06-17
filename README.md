@@ -40,8 +40,8 @@ After the entire ETL process, we successfully reduced 191 messy columns down to 
 ![movies_with_ratings_df](https://user-images.githubusercontent.com/67847583/122330740-539e6480-cef9-11eb-88e7-82cf4fe0cae3.png)
 ##### Wikepedia Movies and Kaggle Metadata
 ![movies_df](https://user-images.githubusercontent.com/67847583/122330781-61ec8080-cef9-11eb-98b0-818de9ee5928.png)
-##### Transformed Movies Data in SQL Database
+##### Transformed Movies Data Count in SQL Database
 ![movies_query](https://user-images.githubusercontent.com/67847583/122330816-716bc980-cef9-11eb-91ee-811226e79284.png)
-##### Ratings Data in SQL Database
+##### Ratings Data Count in SQL Database
 ![ratings_query](https://user-images.githubusercontent.com/67847583/122330843-7b8dc800-cef9-11eb-923e-df9e71d6878c.png)
 
