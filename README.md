@@ -4,6 +4,7 @@ The Movies-ETL process is the first step in preparing for a hackathon in which a
   * Extract the Wikipedia and Kaggle data from their respective files.
   * Transform the datasets by cleaning them up and joining them together.
   * Load the cleaned dataset into a SQL database.
+
 We will extract scraped Wikipedia data stored as JSON and the Kaggle data stored in CSV in the Extract phase. In the Transform phase, we will utilize Python and Pandas in a Jupyter Notebook. We will use Python and Pandas to explore, document, and perform our data transformation. Finally, after the data is transformed into a consistent structure, it's loaded into the PostgreSQL database.
 
 ## Control Flow
