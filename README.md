@@ -35,18 +35,13 @@ Finally, we will create multiple functions to load files, clean the files loaded
 After the entire ETL process, we successfully reduced 191 messy columns down to 21 useful, data-filled columns. Similarly we reduced 7311 rows to 6052.
 
 ##### Wikipedia Cleaned Data
-![wiki_movies_df](https://user-images.githubusercontent.com/67847583/122300112-7d896400-cec4-11eb-9659-34df646fab8b.png)
+![wiki_movies_df](https://user-images.githubusercontent.com/67847583/122330699-45504880-cef9-11eb-9eb3-e95be39276ec.png)
 ##### Merged Data with Ratings
-![movies_with_ratings_df](https://user-images.githubusercontent.com/67847583/122300124-82e6ae80-cec4-11eb-9304-52c384edc05c.png)
+![movies_with_ratings_df](https://user-images.githubusercontent.com/67847583/122330740-539e6480-cef9-11eb-88e7-82cf4fe0cae3.png)
 ##### Wikepedia Movies and Kaggle Metadata
-![movies_df](https://user-images.githubusercontent.com/67847583/122300149-8aa65300-cec4-11eb-98f9-413fbb9da353.png)
+![movies_df](https://user-images.githubusercontent.com/67847583/122330781-61ec8080-cef9-11eb-98b0-818de9ee5928.png)
 ##### Transformed Data in SQL Database
-![movies_query](https://user-images.githubusercontent.com/67847583/122300175-91cd6100-cec4-11eb-8ed1-b6cfbb941bde.png)
+![movies_query](https://user-images.githubusercontent.com/67847583/122330816-716bc980-cef9-11eb-91ee-811226e79284.png)
 ##### Ratings Data in SQL Database
-![ratings_query](https://user-images.githubusercontent.com/67847583/122300181-942fbb00-cec4-11eb-9b64-e1af1f9f3d7d.png)
-
-
-
-
-
+![ratings_query](https://user-images.githubusercontent.com/67847583/122330843-7b8dc800-cef9-11eb-923e-df9e71d6878c.png)
 
