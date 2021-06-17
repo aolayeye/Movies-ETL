@@ -1,9 +1,10 @@
 # Movies-ETL
 ## Overview
-The Movies-ETL process is the first step in preparing for a hackathon in which an algorithm will be developed to predict low budget movies being realsed will become popular. The dataset available for the hackhaton is untidy and located multiple sources.
-In the Movies-ETL project, we our extract data from both Wikipedia and Kaggle, transform the data, merge them and load the merged data to a SQL database so that the hackathon participants have a nice, clean dataset to use. To do this, she will follow the ETL process: extract the Wikipedia and Kaggle data from their respective files, transform the datasets by cleaning them up and joining them together, and load the cleaned dataset into a SQL database. In the Extract phase, we will extract scraped Wikipedia data stored as a JSON, and Kaggle data stored in CSVs.
-In the Transform phase, we will utilize Python and Pandas in a Jupyter Notebook. We will use Python and Pandas to explore, document, and perform our data transformation.
-Finally, after the data is transformed into a consistent structure, it's loaded into the PostgreSQL database.
+The Movies-ETL process is the first step in preparing for a hackathon in which an algorithm will be developed to predict low-budget movies being released will become popular. Unfortunately, the dataset available for the hackathon is untidy and located multiple sources. In the Movies-ETL project, we extract data from both Wikipedia and Kaggle, transform the data, merge them and load the merged data to a SQL database so that the hackathon participants have a nice, clean dataset to use. To do this, we will follow the ETL process:
+  * Extract the Wikipedia and Kaggle data from their respective files.
+  * Transform the datasets by cleaning them up and joining them together.
+  * Load the cleaned dataset into a SQL database.
+We will extract scraped Wikipedia data stored as JSON and the Kaggle data stored in CSV in the Extract phase. In the Transform phase, we will utilize Python and Pandas in a Jupyter Notebook. We will use Python and Pandas to explore, document, and perform our data transformation. Finally, after the data is transformed into a consistent structure, it's loaded into the PostgreSQL database.
 
 ## Control Flow
 1. Extract the Wikipedia Movies JSON
